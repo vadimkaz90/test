@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HEllo223
 new line
+=======
+HEllo2233
+>>>>>>> 9830beeaad641611daa6f9ea713be49524794929
